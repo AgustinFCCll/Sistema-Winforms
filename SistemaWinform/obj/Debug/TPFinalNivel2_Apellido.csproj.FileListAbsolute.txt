@@ -1,0 +1,10 @@
+C:\Users\agust\Desktop\TPFinalNivel2_Quattrocchi\TPFinalNivel2_Apellido\TPFinalNivel2_Apellido\bin\Debug\TPFinalNivel2_Apellido.exe.config
+C:\Users\agust\Desktop\TPFinalNivel2_Quattrocchi\TPFinalNivel2_Apellido\TPFinalNivel2_Apellido\bin\Debug\TPFinalNivel2_Apellido.exe
+C:\Users\agust\Desktop\TPFinalNivel2_Quattrocchi\TPFinalNivel2_Apellido\TPFinalNivel2_Apellido\bin\Debug\TPFinalNivel2_Apellido.pdb
+C:\Users\agust\Desktop\TPFinalNivel2_Quattrocchi\TPFinalNivel2_Apellido\TPFinalNivel2_Apellido\obj\Debug\TPFinalNivel2_Apellido.csproj.AssemblyReference.cache
+C:\Users\agust\Desktop\TPFinalNivel2_Quattrocchi\TPFinalNivel2_Apellido\TPFinalNivel2_Apellido\obj\Debug\TPFinalNivel2_Apellido.Form1.resources
+C:\Users\agust\Desktop\TPFinalNivel2_Quattrocchi\TPFinalNivel2_Apellido\TPFinalNivel2_Apellido\obj\Debug\TPFinalNivel2_Apellido.Properties.Resources.resources
+C:\Users\agust\Desktop\TPFinalNivel2_Quattrocchi\TPFinalNivel2_Apellido\TPFinalNivel2_Apellido\obj\Debug\TPFinalNivel2_Apellido.csproj.GenerateResource.cache
+C:\Users\agust\Desktop\TPFinalNivel2_Quattrocchi\TPFinalNivel2_Apellido\TPFinalNivel2_Apellido\obj\Debug\TPFinalNivel2_Apellido.csproj.CoreCompileInputs.cache
+C:\Users\agust\Desktop\TPFinalNivel2_Quattrocchi\TPFinalNivel2_Apellido\TPFinalNivel2_Apellido\obj\Debug\TPFinalNivel2_Apellido.exe
+C:\Users\agust\Desktop\TPFinalNivel2_Quattrocchi\TPFinalNivel2_Apellido\TPFinalNivel2_Apellido\obj\Debug\TPFinalNivel2_Apellido.pdb

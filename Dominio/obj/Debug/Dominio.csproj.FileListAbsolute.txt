@@ -1,0 +1,10 @@
+C:\Users\agust\Desktop\TPFinalNivel2_Quattrocchi\TPFinalNivel2_Apellido\Dominio\bin\Debug\Dominio.dll
+C:\Users\agust\Desktop\TPFinalNivel2_Quattrocchi\TPFinalNivel2_Apellido\Dominio\bin\Debug\Dominio.pdb
+C:\Users\agust\Desktop\TPFinalNivel2_Quattrocchi\TPFinalNivel2_Apellido\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\agust\Desktop\TPFinalNivel2_Quattrocchi\TPFinalNivel2_Apellido\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\agust\Desktop\TPFinalNivel2_Quattrocchi\TPFinalNivel2_Apellido\Dominio\obj\Debug\Dominio.dll
+C:\Users\agust\Desktop\TPFinalNivel2_Quattrocchi\TPFinalNivel2_Apellido\Dominio\obj\Debug\Dominio.pdb
+C:\Users\agust\Desktop\TPFinalNivel2_Quattrocchi\TPFinalNivel2_Apellido\Dominio\bin\Debug\MaterialSkin.dll
+C:\Users\agust\Desktop\TPFinalNivel2_Quattrocchi\TPFinalNivel2_Apellido\Dominio\obj\Debug\Dominio.csproj.Up2Date
+C:\Users\agust\Desktop\TPFinalNivel2_Quattrocchi\TPFinalNivel2_Apellido\Dominio\bin\Debug\MetroFramework.dll
+C:\Users\agust\Desktop\TPFinalNivel2_Quattrocchi\TPFinalNivel2_Apellido\Dominio\bin\Debug\MetroFramework.Fonts.dll
