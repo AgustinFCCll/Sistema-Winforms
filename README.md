@@ -7,3 +7,11 @@
   <li>Modificar la información de los artículos almacenados.</li>
   <li>Eliminar artículos del inventario que ya no sean necesarios.</li>
 </ul>
+
+## 🛠 Skills
+C# .NET
+
+## Authors
+
+- [@AgustinFCCll](https://github.com/AgustinFCCll)
+
