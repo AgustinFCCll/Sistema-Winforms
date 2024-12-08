@@ -1,5 +1,6 @@
 # Sistema-Winforms
 
+![Captura de pantalla 2024-12-08 002542](https://github.com/user-attachments/assets/4f1132e4-a24a-4816-a8f4-933e63b38c02)
 
 
 
